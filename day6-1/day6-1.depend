@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692002739 source:d:\codblocks\labs\day6-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692443970 source:d:\codblocks\c\day6-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
